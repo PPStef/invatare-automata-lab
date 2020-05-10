@@ -1,0 +1,4 @@
+https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
+https://machinelearningmastery.com/linear-regression-for-machine-learning/
+http://www.revistadestatistica.ro/suplimente/2012/3/srrs3_2012a17.pdf --> RO
+https://ro.sciencewal.com/85731-understanding-logistic-regression-9b02c2aec102-28 -->RO
