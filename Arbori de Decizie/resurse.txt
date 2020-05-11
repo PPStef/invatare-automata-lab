@@ -1,5 +1,0 @@
-https://machinelearningmastery.com/use-classification-machine-learning-algorithms-weka/ 
-https://www.wikiwand.com/ro/%C3%8Env%C4%83%C8%9Bare_automat%C4%83 -->RO
-Ca tema trebuie sa preziceti pozitia in cadrul firmei (job role) pornind de la urmatorul dataset:
- https://www.kaggle.com/esmaeil391/ibm-hr
-Implementati posibilitatea clasificării unei singure instante citite din fisier sau de la tastatura

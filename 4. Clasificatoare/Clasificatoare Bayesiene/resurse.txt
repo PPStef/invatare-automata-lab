@@ -1,0 +1,7 @@
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+http://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/
+https://www.researchgate.net/publication/41392270_Naive_Bayes_vs_Decision_Trees_vs_Neural_Networks_in_the_Classification_of_Training_Web_Pages
+https://www.cs.waikato.ac.nz/~remco/weka.bn.pdf
+
+Pentru tema 3 trebuie facuta o comparatie intre 2 clasificatori baeysieni. 
+Implementarea se poate face plecand de la laboratorul precedent si pentru comparatie folositi procentul de instante clasificate corect. 
