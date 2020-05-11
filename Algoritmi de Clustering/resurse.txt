@@ -1,7 +1,0 @@
-https://www.tutorialspoint.com/weka/weka_clustering.htm
-https://towardsdatascience.com/clustering-unsupervised-learning-788b215b074b
-http://www.mit.edu/~9.54/fall14/slides/Class13.pdf
-
-Sa se implementeze un benchmark in java folosing weka in care sa comparati 3 algoritmi de clustering si sa decideti pentru un dataset care ne da cel mai bun rezultat. 
-Hint:https://github.com/aycignl/Weka/blob/master/WekaPackage/gui/visualize/VisualizeClusterAssignments.java
-Ce metrici analizam?
