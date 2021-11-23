@@ -1,5 +1,7 @@
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
 https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
 https://machinelearningmastery.com/use-ensemble-machine-learning-algorithms-weka/
+https://arxiv.org/pdf/1603.02754.pdf
+https://xgboost.readthedocs.io/en/stable/
 Tema este: Preziceti daca un pasager o sa supravietuiasca dupa scufundarea titanicului. Folositi random forest si explorati daca prin ajustarea parametrilor se poate obtine o performanta mai buna decat standard.
 Data & refs: https://www.kaggle.com/c/titanic/data
